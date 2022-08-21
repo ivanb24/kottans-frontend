@@ -10,3 +10,11 @@ Now I can execute the following and other similar commands not only through the 
 ![Screenshot2](task_linux_cli/module2.png)
 ![Screenshot3](task_linux_cli/module3.png)
 ![Screenshot4](task_linux_cli/module4.png)
+
+## Git Collaboration
+I`ve repeated arguments for the  git pull, git push, and  git fetch, determined for myself the best ways how to review the code, how make a pull request. Also learned how to tell Git to copy a series of commits to the current location (head) using cherry-pick.
+
+![Screenshot1](task_git_collaboration/basicsLearnGit.png)
+![Screenshot2](task_git_collaboration/throughOrigin.png)
+![Screenshot3](task_git_collaboration/week3.png)
+![Screenshot4](task_git_collaboration/week4.png)
