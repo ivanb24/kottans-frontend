@@ -28,6 +28,6 @@ Passing the task "Intro to HTML/CSS practice" I`ve refreshed my knowledge of the
 
 
 ## Responsive Web Design
-At its core, Grid is container-based layout, while Flexbox is content-based. Both are effective in their own way, although I found CSS Grid includes more features and make it easier to manipulate the rows and columns of the grid. For myself I concluded that before deciding which one to use, you should analyze the complexity, structure and content of the site being created. Also want to note that the studying of adaptive web design is more productive if you put the knowledge of theory into practice using games. Thanks, it was fun!
+In fact, Grid is container-based layout, while Flexbox is content-based. Both are effective in their own way, although I found CSS Grid includes more features and make it easier to manipulate the rows and columns of the grid. For myself I concluded that before deciding which one to use, you should analyze the complexity, structure and content of the site being created. Also want to note that the studying of adaptive web design is more productive if you put the knowledge of theory into practice using games. Thanks, it was fun!
 ![Screenshot1](task_responsive_web_design/flexboxGame.png)
 ![Screenshot2](task_responsive_web_design/gridgardenGame.png)
