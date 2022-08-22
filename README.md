@@ -18,3 +18,10 @@ I`ve repeated arguments for the  git pull, git push, and  git fetch, determined 
 ![Screenshot2](task_git_collaboration/throughOrigin.png)
 ![Screenshot3](task_git_collaboration/week3.png)
 ![Screenshot4](task_git_collaboration/week4.png)
+
+## Intro to HTML and CSS
+Passing the task "Intro to HTML/CSS practice" I`ve refreshed my knowledge of the basis of HTML/CSS. I would like to note that Codeacademy tasks are ideally supplement the lectures of Coursera, what will be very useful for those, who are just getting acquainted with HTML/CSS. Thank you!
+![Screenshot1](task_html_css_intro/htmlcssPractise.png)
+![Screenshot2](task_html_css_intro/htmlcssWeek1.png)
+![Screenshot3](task_html_css_intro/htmlcssWeek2.png)
+![Screenshot4](task_html_css_intro/htmlWeek11.png)
